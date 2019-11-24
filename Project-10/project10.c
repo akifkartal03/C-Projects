@@ -229,7 +229,7 @@ queue *create_temp_q( queue *root){
             temp->size=temp->size+1;
             temp->rearp->next=NULL; 
         }
-        else
+        else//
         {
             temp->rearp->next=NULL;
         }
