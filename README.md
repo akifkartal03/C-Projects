@@ -1,2 +1,2 @@
-# C-Programming-Language-Projects
-My C Programming Language Projects and Examples codes.
+## C-Programming-Language-Projects
+### C Programming Language Projects in CSE102 Computer Programming Course and my other example codes.
